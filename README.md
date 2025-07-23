@@ -25,3 +25,4 @@ docker run --rm -v $(pwd)/app/input:/app/input -v $(pwd)/app/output:/app/output 
 - `app/output/` → JSON outputs will be saved here
 # pdf-outline-extractor-adobe
 # pdf-persona-analyzer-adobe
+# pdf-persona-analyzer-adobe
