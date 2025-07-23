@@ -26,3 +26,4 @@ docker run --rm -v $(pwd)/app/input:/app/input -v $(pwd)/app/output:/app/output 
 # pdf-outline-extractor-adobe
 # pdf-persona-analyzer-adobe
 # pdf-persona-analyzer-adobe
+# pdf-persona-analyzer-adobe
